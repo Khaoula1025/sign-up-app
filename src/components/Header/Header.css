@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(100, 78, 121);
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.elem {
+    margin: 10px;
+    color: aliceblue;
+}
+
+.links {
+    font-size: larger;
+    text-decoration: none;
+    color: azure;
+
+}
+
+.colors {
+    color: rgb(110, 48, 121);
+
+}
